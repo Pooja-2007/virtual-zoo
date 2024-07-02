@@ -1,4 +1,8 @@
-The Virtual Zoo Project offers an immersive digital experience that aims to educate and entertain users of all
-ages while promoting wildlife conservation and environmental awareness. By merging technology with the
-fascination of the natural world,inspiring conservation efforts for future generations.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
